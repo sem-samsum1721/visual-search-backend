@@ -1,0 +1,17 @@
+# Sanal Ortam (Virtual Environment)
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache dosyaları
+__pycache__/
+*.py[cod]
+
+# IDE ve Editör Dosyaları
+.vscode/
+.idea/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
